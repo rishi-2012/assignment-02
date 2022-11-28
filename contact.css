@@ -1,0 +1,20 @@
+body{
+    
+    
+    height: 100vh;
+}
+html,body, main, header,section{
+    height: 100%;
+    width: auto;
+    scroll-behavior: smooth;
+}
+header
+{
+    background: url(./Free-Download-Outer-Space-Wallpapers-HD-Screen.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+form{
+    background-image: url(./458235-digital_art-fantasy_art-painting-DeviantArt-bicycle-futuristic-clouds-building-city-flag-reflection-chair-surreal-colorful-musical_notes-birds.jpg);
+    height: 92%;
+}

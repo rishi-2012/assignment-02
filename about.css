@@ -1,0 +1,22 @@
+body{
+    background: url(./3-dauntless_9u17.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    height: 100vh;
+}
+
+
+
+.N1 
+{
+ font-size: 20pt;
+}
+.R1{
+    font-size: 15pt;
+    color: red;
+}
+.R2{
+    font-size: 15pt;
+    color: cyan;
+}
